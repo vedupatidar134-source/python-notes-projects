@@ -12,7 +12,7 @@ c = type("Harry")
 
 print(c)
 
-
+# type conversion 
 d = "34.44"
 
 f = float(d)
