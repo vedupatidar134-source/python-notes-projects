@@ -1,3 +1,5 @@
+d = {} # empty dictionary
+
 marks = {
     "harry": 100,
     "shubham": 56,

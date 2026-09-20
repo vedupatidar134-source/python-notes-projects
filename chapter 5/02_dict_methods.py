@@ -14,7 +14,6 @@ marks = {
 marks.update({"Harry": 99, "Renuka": 100})
 print(marks)
 
-print(marks.get("Harry2"))
-print(marks["Harry2"])
+print(marks.get("Harry2")) # Prints none
 
-
+print(marks["Harry2"]) # returns an error
