@@ -9,4 +9,4 @@ a = (1,32,23,345,425,6532,543,353,False,"Rohan")
 
 print(a)
 
-print(type(a))
+print(type(a)) 
